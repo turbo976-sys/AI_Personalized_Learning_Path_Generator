@@ -1,0 +1,14 @@
+[
+  {"source": "Python", "target": "Data Manipulation", "weight": 1},
+  {"source": "Data Manipulation", "target": "Data Visualization", "weight": 1},
+  {"source": "Python", "target": "Statistics", "weight": 1},
+  {"source": "Statistics", "target": "Machine Learning", "weight": 1},
+  {"source": "Data Manipulation", "target": "Machine Learning", "weight": 1},
+  {"source": "Machine Learning", "target": "Deep Learning", "weight": 1},
+  {"source": "Machine Learning", "target": "MLOps", "weight": 1},
+  {"source": "Deep Learning", "target": "NLP", "weight": 1},
+  {"source": "Deep Learning", "target": "Computer Vision", "weight": 1},
+  {"source": "NLP", "target": "LLMs", "weight": 1},
+  {"source": "Git", "target": "MLOps", "weight": 1},
+  {"source": "SQL", "target": "Data Manipulation", "weight": 1}
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "resource_id": 1,
+        "title": "Python for Data Science",
+        "topics": [
+            "Python",
+            "Programming",
+            "Data Types",
+            "Functions"
+        ],
+        "type": "Course",
+        "url": "https://example.com/python-ds"
+    },
+    {
+        "resource_id": 2,
+        "title": "Data Manipulation with Pandas",
+        "topics": [
+            "Data Manipulation",
+            "Pandas",
+            "Data Cleaning",
+            "DataFrames"
+        ],
+        "type": "Course",
+        "url": "https://example.com/pandas"
+    },
+    {
+        "resource_id": 3,
+        "title": "Machine Learning Specialization",
+        "topics": [
+            "Machine Learning",
+            "Supervised Learning",
+            "Linear Regression",
+            "Logistic Regression"
+        ],
+        "type": "Course",
+        "url": "https://example.com/ml-spec"
+    },
+    {
+        "resource_id": 4,
+        "title": "Deep Learning Specialization",
+        "topics": [
+            "Deep Learning",
+            "Neural Networks",
+            "TensorFlow",
+            "PyTorch"
+        ],
+        "type": "Course",
+        "url": "https://example.com/dl-spec"
+    },
+    {
+        "resource_id": 5,
+        "title": "Natural Language Processing in TensorFlow",
+        "topics": [
+            "NLP",
+            "Transformers",
+            "Word Embeddings",
+            "Text Classification"
+        ],
+        "type": "Course",
+        "url": "https://example.com/nlp-tf"
+    },
+    {
+        "resource_id": 6,
+        "title": "SQL for Data Analysis",
+        "topics": [
+            "SQL",
+            "Databases",
+            "Queries",
+            "Joins"
+        ],
+        "type": "Course",
+        "url": "https://example.com/sql-da"
+    },
+    {
+        "resource_id": 7,
+        "title": "Statistics for Machine Learning",
+        "topics": [
+            "Statistics",
+            "Probability",
+            "Distributions",
+            "Hypothesis Testing"
+        ],
+        "type": "Course",
+        "url": "https://example.com/stats-ml"
+    },
+    {
+        "resource_id": 8,
+        "title": "MLOps Fundamentals",
+        "topics": [
+            "MLOps",
+            "Model Deployment",
+            "Monitoring",
+            "CI/CD"
+        ],
+        "type": "Course",
+        "url": "https://example.com/mlops"
+    }
+]
