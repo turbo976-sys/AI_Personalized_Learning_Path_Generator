@@ -223,28 +223,6 @@ SQL Database (User Data)
 
 * * *
 
-# 📂 Project Structure
-
-AI-Learning-Path-Generator  
-│  
-├── app.py  
-├── roadmap\_generator.py  
-├── skill\_gap\_detector.py  
-├── knowledge\_graph.py  
-├── model/  
-│   └── t5\_model.py  
-│  
-├── database/  
-│   └── user\_data.db  
-│  
-├── data/  
-│   └── skills\_dataset.csv  
-│  
-├── utils/  
-│   └── text\_processing.py  
-│  
-├── requirements.txt  
-└── README.md
 
 * * *
 
@@ -252,7 +230,7 @@ AI-Learning-Path-Generator
 
 Clone the repository
 
-git clone https://github.com/yourusername/AI-Learning-Path-Generator.git  
+git clone https://github.com/turbo976-sys/AI_Personalized_Learning_Path_Generator.git  
 cd AI-Learning-Path-Generator
 
 Install dependencies
